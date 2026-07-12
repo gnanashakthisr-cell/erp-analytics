@@ -1,0 +1,44 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node dependencies
+node_modules/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Local environment configuration
+.env
+.env.example
+
+# IDEs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Spark temporary directories
+spark-warehouse/
+metastore_db/
+derby.log
+data/temp/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+Invoice No,Date,Customer Name,Product Name,Qty,Rate,Amount,Branch
+INV-1001,2024-03-01,Acme Corp,Widget A,10,50,500,New York
+INV-1002,2024-03-02,Globex,Widget B,5,100,500,London
+INV-1003,2024-03-02,Acme Corp,Widget C,2,250,500,New York
+INV-1004,2024-03-03,Stark Ind,Widget A,20,50,1000,Tokyo
+INV-1005,2024-03-05,Globex,Widget A,15,50,750,London

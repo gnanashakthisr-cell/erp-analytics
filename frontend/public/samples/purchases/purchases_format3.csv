@@ -1,0 +1,61 @@
+Reference No,Created Date,Supplier Code,Seller Name,SKU,Product,Units,Buying Price,Cost Amount,Currency
+REF-7001,02-Feb-26,SC-801,Direct Metal Sales,SKU-601,Component Part 1,2.0,235.0,470.0,GBP
+REF-7002,03-Mar-26,SC-802,Advanced Circuits,SKU-602,Component Part 2,3.0,220.0,660.0,GBP
+REF-7003,04-Apr-26,SC-800,Pacific Import Co,SKU-603,Component Part 3,4.0,205.0,820.0,GBP
+REF-7004,05-May-26,SC-801,Direct Metal Sales,SKU-604,Component Part 4,5.0,250.0,1250.0,GBP
+REF-7005,06-Jun-26,SC-802,Advanced Circuits,SKU-600,Component Part 0,6.0,235.0,1410.0,GBP
+REF-7006,07-Jan-26,SC-800,Pacific Import Co,SKU-601,Component Part 1,7.0,220.0,1540.0,GBP
+REF-7007,08-Feb-26,SC-801,Direct Metal Sales,SKU-602,Component Part 2,8.0,205.0,1640.0,GBP
+REF-7008,09-Mar-26,SC-802,Advanced Circuits,SKU-603,Component Part 3,1.0,250.0,250.0,GBP
+REF-7009,10-Apr-26,SC-800,Pacific Import Co,SKU-604,Component Part 4,2.0,235.0,470.0,GBP
+REF-7010,11-May-26,SC-801,Direct Metal Sales,SKU-600,Component Part 0,3.0,220.0,660.0,GBP
+REF-7011,12-Jun-26,SC-802,Advanced Circuits,SKU-601,Component Part 1,4.0,205.0,820.0,GBP
+REF-7012,13-Jan-26,SC-800,Pacific Import Co,SKU-602,Component Part 2,5.0,250.0,1250.0,GBP
+REF-7013,14-Feb-26,SC-801,Direct Metal Sales,SKU-603,Component Part 3,6.0,235.0,1410.0,GBP
+REF-7014,15-Mar-26,SC-802,Advanced Circuits,SKU-604,Component Part 4,7.0,220.0,1540.0,GBP
+REF-7015,16-Apr-26,SC-800,Pacific Import Co,SKU-600,Component Part 0,8.0,205.0,1640.0,GBP
+REF-7016,17-May-26,SC-801,Direct Metal Sales,SKU-601,Component Part 1,1.0,250.0,250.0,GBP
+REF-7017,18-Jun-26,SC-802,Advanced Circuits,SKU-602,Component Part 2,2.0,235.0,470.0,GBP
+REF-7018,19-Jan-26,SC-800,Pacific Import Co,SKU-603,Component Part 3,3.0,220.0,660.0,GBP
+REF-7019,20-Feb-26,SC-801,Direct Metal Sales,SKU-604,Component Part 4,4.0,205.0,820.0,GBP
+REF-7020,21-Mar-26,SC-802,Advanced Circuits,SKU-600,Component Part 0,5.0,250.0,1250.0,GBP
+REF-7021,22-Apr-26,SC-800,Pacific Import Co,SKU-601,Component Part 1,6.0,235.0,1410.0,GBP
+REF-7022,23-May-26,SC-801,Direct Metal Sales,SKU-602,Component Part 2,7.0,220.0,1540.0,GBP
+REF-7023,24-Jun-26,SC-802,Advanced Circuits,SKU-603,Component Part 3,8.0,205.0,1640.0,GBP
+REF-7024,25-Jan-26,SC-800,Pacific Import Co,SKU-604,Component Part 4,1.0,250.0,250.0,GBP
+REF-7025,26-Feb-26,SC-801,Direct Metal Sales,SKU-600,Component Part 0,2.0,235.0,470.0,GBP
+REF-7026,27-Mar-26,SC-802,Advanced Circuits,SKU-601,Component Part 1,3.0,220.0,660.0,GBP
+REF-7027,28-Apr-26,SC-800,Pacific Import Co,SKU-602,Component Part 2,4.0,205.0,820.0,GBP
+REF-7028,01-May-26,SC-801,Direct Metal Sales,SKU-603,Component Part 3,5.0,250.0,1250.0,GBP
+REF-7029,02-Jun-26,SC-802,Advanced Circuits,SKU-604,Component Part 4,6.0,235.0,1410.0,GBP
+REF-7030,03-Jan-26,SC-800,Pacific Import Co,SKU-600,Component Part 0,7.0,220.0,1540.0,GBP
+REF-7031,04-Feb-26,SC-801,Direct Metal Sales,SKU-601,Component Part 1,8.0,205.0,1640.0,GBP
+REF-7032,05-Mar-26,SC-802,Advanced Circuits,SKU-602,Component Part 2,1.0,250.0,250.0,GBP
+REF-7033,06-Apr-26,SC-800,Pacific Import Co,SKU-603,Component Part 3,2.0,235.0,470.0,GBP
+REF-7034,07-May-26,SC-801,Direct Metal Sales,SKU-604,Component Part 4,3.0,220.0,660.0,GBP
+REF-7035,08-Jun-26,SC-802,Advanced Circuits,SKU-600,Component Part 0,4.0,205.0,820.0,GBP
+REF-7036,09-Jan-26,SC-800,Pacific Import Co,SKU-601,Component Part 1,5.0,250.0,1250.0,GBP
+REF-7037,10-Feb-26,SC-801,Direct Metal Sales,SKU-602,Component Part 2,6.0,235.0,1410.0,GBP
+REF-7038,11-Mar-26,SC-802,Advanced Circuits,SKU-603,Component Part 3,7.0,220.0,1540.0,GBP
+REF-7039,12-Apr-26,SC-800,Pacific Import Co,SKU-604,Component Part 4,8.0,205.0,1640.0,GBP
+REF-7040,13-May-26,SC-801,Direct Metal Sales,SKU-600,Component Part 0,1.0,250.0,250.0,GBP
+REF-7041,14-Jun-26,SC-802,Advanced Circuits,SKU-601,Component Part 1,2.0,235.0,470.0,GBP
+REF-7042,15-Jan-26,SC-800,Pacific Import Co,SKU-602,Component Part 2,3.0,220.0,660.0,GBP
+REF-7043,16-Feb-26,SC-801,Direct Metal Sales,SKU-603,Component Part 3,4.0,205.0,820.0,GBP
+REF-7044,17-Mar-26,SC-802,Advanced Circuits,SKU-604,Component Part 4,5.0,250.0,1250.0,GBP
+REF-7045,18-Apr-26,SC-800,Pacific Import Co,SKU-600,Component Part 0,6.0,235.0,1410.0,GBP
+REF-7046,19-May-26,SC-801,Direct Metal Sales,SKU-601,Component Part 1,7.0,220.0,1540.0,GBP
+REF-7047,20-Jun-26,SC-802,Advanced Circuits,SKU-602,Component Part 2,8.0,205.0,1640.0,GBP
+REF-7048,21-Jan-26,SC-800,Pacific Import Co,SKU-603,Component Part 3,1.0,250.0,250.0,GBP
+REF-7049,22-Feb-26,SC-801,Direct Metal Sales,SKU-604,Component Part 4,2.0,235.0,470.0,GBP
+REF-7050,23-Mar-26,SC-802,Advanced Circuits,SKU-600,Component Part 0,3.0,220.0,660.0,GBP
+REF-7051,24-Apr-26,SC-800,Pacific Import Co,SKU-601,Component Part 1,4.0,205.0,820.0,GBP
+REF-7052,25-May-26,SC-801,Direct Metal Sales,SKU-602,Component Part 2,5.0,250.0,1250.0,GBP
+REF-7053,26-Jun-26,SC-802,Advanced Circuits,SKU-603,Component Part 3,6.0,235.0,1410.0,GBP
+REF-7054,27-Jan-26,SC-800,Pacific Import Co,SKU-604,Component Part 4,7.0,220.0,1540.0,GBP
+REF-7055,28-Feb-26,SC-801,Direct Metal Sales,SKU-600,Component Part 0,8.0,205.0,1640.0,GBP
+REF-7056,01-Mar-26,SC-802,Advanced Circuits,SKU-601,Component Part 1,1.0,250.0,250.0,GBP
+REF-7057,02-Apr-26,SC-800,Pacific Import Co,SKU-602,Component Part 2,2.0,235.0,470.0,GBP
+REF-7058,03-May-26,SC-801,Direct Metal Sales,SKU-603,Component Part 3,3.0,220.0,660.0,GBP
+REF-7059,04-Jun-26,SC-802,Advanced Circuits,SKU-604,Component Part 4,4.0,205.0,820.0,GBP
+REF-7060,05-Jan-26,SC-800,Pacific Import Co,SKU-600,Component Part 0,5.0,250.0,1250.0,GBP

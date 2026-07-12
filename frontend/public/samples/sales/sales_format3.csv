@@ -1,0 +1,61 @@
+Bill No,Posting Date,Party Code,Party Name,SKU,Product,Volume,Selling Price,Revenue,Outlet,Currency
+B-3001,02-Feb-26,PTY-701,Atlantic Trading,M-901,Medium Rotor,2.0,110.0,220.0,Sub Outlet A,GBP
+B-3002,03-Mar-26,PTY-702,Global Import,M-902,Light Shaft,3.0,100.0,300.0,Sub Outlet B,GBP
+B-3003,04-Apr-26,PTY-703,Local Supply,M-903,Standard Gear,4.0,90.0,360.0,HQ Division,GBP
+B-3004,05-May-26,PTY-704,Direct Sales,M-904,Micro Bearings,5.0,120.0,600.0,Sub Outlet A,GBP
+B-3005,06-Jun-26,PTY-705,Mega Retail,M-900,Heavy Engine,1.0,110.0,110.0,Sub Outlet B,GBP
+B-3006,07-Jan-26,PTY-700,Pacific Corp,M-901,Medium Rotor,2.0,100.0,200.0,HQ Division,GBP
+B-3007,08-Feb-26,PTY-701,Atlantic Trading,M-902,Light Shaft,3.0,90.0,270.0,Sub Outlet A,GBP
+B-3008,09-Mar-26,PTY-702,Global Import,M-903,Standard Gear,4.0,120.0,480.0,Sub Outlet B,GBP
+B-3009,10-Apr-26,PTY-703,Local Supply,M-904,Micro Bearings,5.0,110.0,550.0,HQ Division,GBP
+B-3010,11-May-26,PTY-704,Direct Sales,M-900,Heavy Engine,1.0,100.0,100.0,Sub Outlet A,GBP
+B-3011,12-Jun-26,PTY-705,Mega Retail,M-901,Medium Rotor,2.0,90.0,180.0,Sub Outlet B,GBP
+B-3012,13-Jan-26,PTY-700,Pacific Corp,M-902,Light Shaft,3.0,120.0,360.0,HQ Division,GBP
+B-3013,14-Feb-26,PTY-701,Atlantic Trading,M-903,Standard Gear,4.0,110.0,440.0,Sub Outlet A,GBP
+B-3014,15-Mar-26,PTY-702,Global Import,M-904,Micro Bearings,5.0,100.0,500.0,Sub Outlet B,GBP
+,16-Apr-26,PTY-703,Local Supply,M-900,Heavy Engine,1.0,90.0,90.0,HQ Division,GBP
+B-3016,17-May-26,PTY-704,Direct Sales,M-901,Medium Rotor,2.0,120.0,240.0,Sub Outlet A,GBP
+B-3017,18-Jun-26,PTY-705,Mega Retail,M-902,Light Shaft,3.0,110.0,330.0,Sub Outlet B,GBP
+B-3018,19-Jan-26,PTY-700,Pacific Corp,M-903,Standard Gear,4.0,100.0,400.0,HQ Division,GBP
+B-3019,20-Feb-26,PTY-701,Atlantic Trading,M-904,Micro Bearings,5.0,90.0,450.0,Sub Outlet A,GBP
+B-3020,21-Mar-26,PTY-702,Global Import,M-900,Heavy Engine,1.0,120.0,120.0,Sub Outlet B,GBP
+B-3021,22-Apr-26,PTY-703,Local Supply,M-901,Medium Rotor,2.0,110.0,220.0,HQ Division,GBP
+B-3022,23-May-26,PTY-704,Direct Sales,M-902,Light Shaft,3.0,100.0,300.0,Sub Outlet A,GBP
+B-3023,24-Jun-26,PTY-705,Mega Retail,M-903,Standard Gear,4.0,90.0,360.0,Sub Outlet B,GBP
+B-3024,25-Jan-26,PTY-700,Pacific Corp,M-904,Micro Bearings,5.0,120.0,600.0,HQ Division,GBP
+B-3025,26-Feb-26,PTY-701,Atlantic Trading,M-900,Heavy Engine,0.0,110.0,0.0,Sub Outlet A,GBP
+B-3026,27-Mar-26,PTY-702,Global Import,M-901,Medium Rotor,2.0,100.0,200.0,Sub Outlet B,GBP
+B-3027,28-Apr-26,PTY-703,Local Supply,M-902,Light Shaft,3.0,90.0,270.0,HQ Division,GBP
+B-3028,01-May-26,PTY-704,Direct Sales,M-903,Standard Gear,4.0,120.0,480.0,Sub Outlet A,GBP
+B-3029,02-Jun-26,PTY-705,Mega Retail,M-904,Micro Bearings,5.0,110.0,550.0,Sub Outlet B,GBP
+B-3030,03-Jan-26,PTY-700,Pacific Corp,M-900,Heavy Engine,1.0,100.0,100.0,HQ Division,GBP
+B-3031,04-Feb-26,PTY-701,Atlantic Trading,M-901,Medium Rotor,2.0,90.0,180.0,Sub Outlet A,GBP
+B-3032,05-Mar-26,PTY-702,Global Import,M-902,Light Shaft,3.0,120.0,360.0,Sub Outlet B,GBP
+B-3033,06-Apr-26,PTY-703,Local Supply,M-903,Standard Gear,4.0,110.0,440.0,HQ Division,GBP
+B-3034,07-May-26,PTY-704,Direct Sales,M-904,Micro Bearings,5.0,100.0,500.0,Sub Outlet A,GBP
+B-3035,08-Jun-26,PTY-705,Mega Retail,M-900,Heavy Engine,1.0,90.0,90.0,Sub Outlet B,GBP
+B-3036,09-Jan-26,PTY-700,Pacific Corp,M-901,Medium Rotor,2.0,120.0,240.0,HQ Division,GBP
+B-3037,10-Feb-26,PTY-701,Atlantic Trading,M-902,Light Shaft,3.0,110.0,330.0,Sub Outlet A,GBP
+B-3038,11-Mar-26,PTY-702,Global Import,M-903,Standard Gear,4.0,100.0,400.0,Sub Outlet B,GBP
+B-3039,12-Apr-26,PTY-703,Local Supply,M-904,Micro Bearings,5.0,90.0,450.0,HQ Division,GBP
+B-3040,13-May-26,PTY-704,Direct Sales,M-900,Heavy Engine,1.0,120.0,120.0,Sub Outlet A,GBP
+B-3041,14-Jun-26,PTY-705,Mega Retail,M-901,Medium Rotor,2.0,110.0,220.0,Sub Outlet B,GBP
+B-3042,15-Jan-26,PTY-700,Pacific Corp,M-902,Light Shaft,3.0,100.0,300.0,HQ Division,GBP
+B-3043,16-Feb-26,PTY-701,Atlantic Trading,M-903,Standard Gear,4.0,90.0,360.0,Sub Outlet A,GBP
+B-3044,17-Mar-26,PTY-702,Global Import,M-904,Micro Bearings,5.0,120.0,600.0,Sub Outlet B,GBP
+B-3045,18-Apr-26,PTY-703,Local Supply,M-900,Heavy Engine,1.0,110.0,110.0,HQ Division,GBP
+B-3046,19-May-26,PTY-704,Direct Sales,M-901,Medium Rotor,2.0,100.0,200.0,Sub Outlet A,GBP
+B-3047,20-Jun-26,PTY-705,Mega Retail,M-902,Light Shaft,3.0,90.0,270.0,Sub Outlet B,GBP
+B-3048,21-Jan-26,PTY-700,Pacific Corp,M-903,Standard Gear,4.0,120.0,480.0,HQ Division,GBP
+B-3049,22-Feb-26,PTY-701,Atlantic Trading,M-904,Micro Bearings,5.0,110.0,550.0,Sub Outlet A,GBP
+B-3050,23-Mar-26,PTY-702,Global Import,M-900,Heavy Engine,1.0,100.0,100.0,Sub Outlet B,GBP
+B-3051,24-Apr-26,PTY-703,Local Supply,M-901,Medium Rotor,2.0,90.0,180.0,HQ Division,GBP
+B-3052,25-May-26,PTY-704,Direct Sales,M-902,Light Shaft,3.0,120.0,360.0,Sub Outlet A,GBP
+B-3053,26-Jun-26,PTY-705,Mega Retail,M-903,Standard Gear,4.0,110.0,440.0,Sub Outlet B,GBP
+B-3054,27-Jan-26,PTY-700,Pacific Corp,M-904,Micro Bearings,5.0,100.0,500.0,HQ Division,GBP
+B-3055,28-Feb-26,PTY-701,Atlantic Trading,M-900,Heavy Engine,1.0,90.0,90.0,Sub Outlet A,GBP
+B-3056,01-Mar-26,PTY-702,Global Import,M-901,Medium Rotor,2.0,120.0,240.0,Sub Outlet B,GBP
+B-3057,02-Apr-26,PTY-703,Local Supply,M-902,Light Shaft,3.0,110.0,330.0,HQ Division,GBP
+B-3058,03-May-26,PTY-704,Direct Sales,M-903,Standard Gear,4.0,100.0,400.0,Sub Outlet A,GBP
+B-3059,04-Jun-26,PTY-705,Mega Retail,M-904,Micro Bearings,5.0,90.0,450.0,Sub Outlet B,GBP
+B-3060,05-Jan-26,PTY-700,Pacific Corp,M-900,Heavy Engine,1.0,120.0,120.0,HQ Division,GBP
