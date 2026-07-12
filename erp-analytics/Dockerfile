@@ -1,17 +1,15 @@
+FROM eclipse-temurin:17-jre AS java-base
+
 FROM python:3.11-slim
 
 ENV PYTHONUNBUFFERED=1 \
-    JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 \
-    PATH=$PATH:/usr/lib/jvm/java-17-openjdk-amd64/bin
+    JAVA_HOME=/opt/java/openjdk \
+    PATH=$PATH:/opt/java/openjdk/bin
 
 WORKDIR /app
 
-# Install Java 17 headless (required for PySpark) with retries for transient network errors on Render
-RUN apt-get clean && rm -rf /var/lib/apt/lists/* && \
-    for i in 1 2 3; do apt-get update -y && break || (echo "Retry $i..." && sleep 5); done && \
-    apt-get install -y --no-install-recommends openjdk-17-jre-headless && \
-    apt-get clean && \
-    rm -rf /var/lib/apt/lists/*
+# Copy Java runtime directly from eclipse-temurin base image (avoids network-based apt-get issues on Render)
+COPY --from=java-base /opt/java/openjdk /opt/java/openjdk
 
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
