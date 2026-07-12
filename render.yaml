@@ -18,7 +18,6 @@ services:
     name: erp-analytics-frontend
     env: static
     plan: free
-    region: ohio
     buildCommand: cd frontend && npm install && npm run build
     staticPublishPath: ./frontend/dist
     envVars:
