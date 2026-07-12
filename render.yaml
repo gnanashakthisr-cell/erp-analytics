@@ -2,7 +2,7 @@ services:
   # Backend API Service
   - type: web
     name: erp-analytics-api
-    env: docker
+    runtime: docker
     plan: free
     region: ohio
     dockerfilePath: Dockerfile
@@ -14,8 +14,9 @@ services:
         value: "*"
     
   # Frontend Static Site
-  - type: static
+  - type: web
     name: erp-analytics-frontend
+    runtime: static
     buildCommand: cd frontend && npm install && npm run build
     staticPublishPath: ./frontend/dist
     envVars:
