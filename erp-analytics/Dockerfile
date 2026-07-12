@@ -8,13 +8,20 @@ ENV PYTHONUNBUFFERED=1 \
 
 WORKDIR /app
 
-# Copy Java runtime directly from eclipse-temurin base image (avoids network-based apt-get issues on Render)
+# libmagic is required by python-magic
+RUN apt-get update && apt-get install -y --no-install-recommends libmagic1 \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy Java runtime directly from eclipse-temurin base image
 COPY --from=java-base /opt/java/openjdk /opt/java/openjdk
 
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY app/ ./app/
+
+# Ensure temp directory exists for file uploads
+RUN mkdir -p data/temp
 
 EXPOSE 8000
 
