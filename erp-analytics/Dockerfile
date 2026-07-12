@@ -6,8 +6,9 @@ ENV PYTHONUNBUFFERED=1 \
 
 WORKDIR /app
 
-# Install Java 17 headless (required for PySpark)
-RUN apt-get update && \
+# Install Java 17 headless (required for PySpark) with retries for transient network errors on Render
+RUN apt-get clean && rm -rf /var/lib/apt/lists/* && \
+    for i in 1 2 3; do apt-get update -y && break || (echo "Retry $i..." && sleep 5); done && \
     apt-get install -y --no-install-recommends openjdk-17-jre-headless && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
