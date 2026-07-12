@@ -1,0 +1,29 @@
+services:
+  # Backend API Service
+  - type: web
+    name: erp-analytics-api
+    env: docker
+    plan: free
+    region: ohio
+    dockerfilePath: Dockerfile
+    # Docker context is the root directory where Dockerfile resides
+    envVars:
+      - key: PORT
+        value: 8000
+      - key: CORS_ORIGINS
+        value: "*"
+    
+  # Frontend Static Site
+  - type: web
+    name: erp-analytics-frontend
+    env: static
+    plan: free
+    region: ohio
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: ./frontend/dist
+    envVars:
+      - key: VITE_API_BASE_URL
+        fromService:
+          type: web
+          name: erp-analytics-api
+          envVarKey: RENDER_EXTERNAL_URL
