@@ -9,7 +9,7 @@ services:
     # Docker context is the root directory where Dockerfile resides
     envVars:
       - key: PORT
-        value: 8000
+        value: "8000"
       - key: CORS_ORIGINS
         value: "*"
     
